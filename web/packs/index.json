@@ -1,9 +1,8 @@
 {
   "packs": [
-    "peklo.json",
     "akkoma.json",
-    "betterttv.json",
-    "shitfuck.json"
+    "peklo.json",
+    "betterttv.json"
   ],
   "homeserver_url": "https://matrix.cat-wo.men"
 }
